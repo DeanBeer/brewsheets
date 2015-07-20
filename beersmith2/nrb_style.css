@@ -1,5 +1,16 @@
+@media screen {
+  html {
+    font-size: 1em;
+  }
+}
+
+@media print {
+  html {
+    font-size: 10px;
+  }
+}
+
 html {
-  font-size: 10pt;
   line-height: 1.2;
 }
 
